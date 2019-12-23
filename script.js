@@ -337,7 +337,7 @@ var importantDates = {
     "12/01/2020": "Rosa Parks refused to give up her seat (1955)",
     "12/02/2020": "Good Will Hunting debuted (1997)",
     "12/03/2020": "Adidas confirmed collaborating with Kanye West on a new Yeezy shoe line (2013) ",
-    "12/04/2020": "Jay-Z's birthday",
+    "12/04/2020": "Jay-Z's birthday <br>and<br>Jackie's birthday",
     "12/05/2020": "Bathtub Party Day",
     "12/06/2020": "The 13th amendment was ratified (1865)<br>and<br>Giannis's birthday",
     "12/07/2020": "National Cotton Candy Day <br>and<br> Nick Janetos's birthday",
