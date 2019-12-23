@@ -394,6 +394,8 @@ function tryDate(){
     console.log(newDate)
     if (newDate === "04/01/2020" || newDate === "04/02/2020"){
         return div.innerHTML = "YES!! IT'S REALLY OUR BIRTHDAY!!"
+    } else if (importantDates[newDate] == undefined){
+        return div.innerHTML = "Oops - is your date in mm/dd format?"
     }
     else {
         return div.innerHTML =  "Nope! <br> But here's what you can celebrate: <br>" + "<div id='newText'>" + importantDates[newDate] + "</div>"
