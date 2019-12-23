@@ -340,7 +340,7 @@ var importantDates = {
     "12/04/2020": "Jay-Z's birthday",
     "12/05/2020": "Bathtub Party Day",
     "12/06/2020": "The 13th amendment was ratified (1865)<br>and<br>Giannis's birthday",
-    "12/07/2020": "National Cotton Candy Day",
+    "12/07/2020": "National Cotton Candy Day <br>and<br> Nick Janetos's birthday",
     "12/08/2020": "Sony cancelled the premiere of The Interview because they were hacked by North Koreans (2014)<br>and<br>Nicki Minaj's birthday",
     "12/09/2020": "Bangz' birthday",
     "12/10/2020": "Zoe's birthday",
