@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+    width: 60%;
+    padding-left: 20%;
+    padding-right: 20%;
+        line-height: 4em;
+
+}
+
+h1{
+    font-size: 6em;
+
+}
+
+#result{
+    font-size: 3em;
+    line-height: 1em;
+}
+
+#newText{
+    padding-top: 1em;
+}
