@@ -22,3 +22,7 @@ h1{
 #newText{
     padding-top: 1em;
 }
+
+.datePicker{
+    line-height: .4em;
+}
