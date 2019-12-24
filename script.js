@@ -68,7 +68,7 @@ var importantDates = {
     "03/07/2020": "Bryan Cranston's birthday",
     "03/08/2020": "McCollum vs. Board of Ed (about no church in school) was decided (1948)",
     "03/09/2020": "Barbies were sold for the first time (1959)",
-    "03/10/2020”: “Viv’s birthday<br>and<br>Professor Lupin's birthday",
+    "03/10/2020": "Viv’s birthday<br>and<br>Professor Lupin's birthday",
     "03/11/2020": "Ruben Studdard Day (Alabama)",
     "03/12/2020": "Church of England started ordaining female priests (1994)",
     "03/13/2020": "So Fresh, So Clean was released (2001)",
