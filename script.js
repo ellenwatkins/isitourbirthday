@@ -367,9 +367,20 @@ var importantDates = {
     "12/31/2020": "TJ’s birthday<br>and<br>Voldemort's birthday"
   }
 
+var test = new Date();
+console.log(test.getDate())
+
 var currentdate = new Date(); 
-var datetime = (currentdate.getMonth()+1)  + "/" + currentdate.getDate() 
+if (currentdate.getMonth()+1 < 10) {
+    var datetime = ("0" + currentdate.getMonth()+1).slice(-2) + "/" + currentdate.getDate() 
                 + "/" + 2020
+                console.log(datetime)
+} else {
+    var datetime = (currentdate.getMonth()+1)  + "/" + currentdate.getDate() 
+                + "/" + 2020
+}
+
+console.log(datetime)
 
 function checkDate(){
     var printOut
